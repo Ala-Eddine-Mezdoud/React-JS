@@ -1,8 +1,9 @@
-# React + Vite
+# Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React.js** dashboard project demonstrating the use of **routing**. The dashboard allows easy navigation between different sections, showcasing how routing works within a React application.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React Router**: Implements routing to manage navigation between various components.
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Component Structure**: Uses a modular component structure for better organization and reusability.
